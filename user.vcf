@@ -2,13 +2,13 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+FN: Young Samantha
+ORG:Uniti Group Inc.;
+TITLE:Office Manager & Executive Assistant to CFO & CAO
+EMAIL;type=INTERNET;type=WORK;type=pref:samantha.young@uniti.com
+TEL;type=WORK;type=VOICE:501 850 0820
+item1.ADR;type=WORK;type=pref:;;10802 Executive Center Drive \,Suite 300\, Little Rock\, Arkansas 72211
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:uniti.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
